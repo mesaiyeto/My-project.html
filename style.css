@@ -1,0 +1,75 @@
+* {
+    box-sizing: border-box; margin: 0; padding: 0;
+}
+
+.container {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center
+}
+
+img {
+    max-width: 100px; width: 100px; float: left; border-radius: 50px; object-fit: cover; padding: 20px 20px;
+    margin-left: -730px; padding-top: -350px;
+}
+
+h1 {
+    padding: 20px 20px; margin-left: -680px; float: left; font-size: 15px; padding-top: 38px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#div2 {
+    padding-top: 50px;
+}
+
+nav {
+    float: right; padding-top: -150px; margin-top: -50px; padding-right: -200px; font-weight: bold;
+    color: #28282B;
+}
+
+button {
+    background-color: #FF3131; color: white; border-radius: 3px; font-size: 10px;
+    height: 30px; width: 170px; font-weight: bolder;
+}
+
+p {
+    padding: 100px; color: #FF3131; font-size: 12px; padding-left: 200px;
+}
+
+#left {
+     height: 800px; background-image: url(techguy1.jpg); background-size: cover; width: auto;
+     padding-top: 150px;
+}
+
+p {
+    padding-bottom: 30px;
+}
+
+h2 {
+    padding-left: 200px; font-size: 40px; padding-top: 0px;
+    
+}
+
+.ex1 {
+    color: #28282B; font-size: 17px; padding-left: 200px; padding-top: 0px;
+}
+
+#button1 {
+    height: 40px; width: 150px; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-color: whitesmoke; color: whitesmoke;
+}
+
+#button2 {
+    font-style: normal; color: #505050; background-color: white; height: 40px; width: 150px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; border-color: whitesmoke;
+}
+
+.footer {
+    height: 180px; padding-top: 100px; font-weight: bolder; font-size: larger; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-color: white; padding-left: 300px; border-style: hidden; padding-block-start: 20px;
+}
+
+span {
+    font-size: x-large; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-right: 170px; padding-top: -100px;
+}
